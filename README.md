@@ -1,0 +1,1 @@
+The excel spreadsheet uplaoded contains the source data for the metabolic syndrome, cognitive health, and neurovascular coupling study. Please contact the correspondign author and PI of the study Jigar Gosalia for any additional questions or requests: jigar.gosalia@yahoo.com 
